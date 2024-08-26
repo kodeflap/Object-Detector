@@ -20,7 +20,7 @@ This Android app utilizes Kotlin, YoloV8, and TensorFlow Lite for real-time obje
 1. **Clone the Repository**
 
    ```bash
-   git clone <repository-url>
+   git clone [<repository-url>](https://github.com/kodeflap/Object-detector.git)
    cd <repository-directory>
    ```
 
